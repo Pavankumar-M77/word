@@ -1,5 +1,8 @@
-hello bro <<<<<<< HEAD
+
+new line
+
+hello bro 
 break
-=======
+
 hru
->>>>>>> b1
+
